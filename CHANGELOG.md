@@ -16,3 +16,4 @@ All notable changes to this project will be documented in this file. See [standa
 
 * add test coverage ([ffd49d2](https://github.com/dmytro-mavrosaus/ngQuote/commit/ffd49d2ae0f05798b61e0b0ffc8a070bfa3cf0ee))
 * add test coverage ([5d7e463](https://github.com/dmytro-mavrosaus/ngQuote/commit/5d7e4630ea23a6fa5746669e8b8188d99e5da048))
+
